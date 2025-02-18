@@ -1,0 +1,2 @@
+C:/Users/mjone/vtandroid/android/app/.cxx/Debug/2qk625wg/x86/CMakeFiles/edit_cache.dir
+C:/Users/mjone/vtandroid/android/app/.cxx/Debug/2qk625wg/x86/CMakeFiles/rebuild_cache.dir

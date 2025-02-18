@@ -1,0 +1,2 @@
+C:/Users/mjone/vtandroid/android/app/.cxx/RelWithDebInfo/3n104o1y/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/mjone/vtandroid/android/app/.cxx/RelWithDebInfo/3n104o1y/armeabi-v7a/CMakeFiles/rebuild_cache.dir
